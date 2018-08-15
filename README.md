@@ -1,4 +1,4 @@
-# sentiment
+# sentiment-deftbyte
 ### AFINN-based sentiment analysis for Node.js
 
 Forked from Sentiment by thisandagain
