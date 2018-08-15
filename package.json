@@ -1,13 +1,19 @@
 {
   "author": "Andrew Sliwinski <andrewsliwinski@acm.org>",
-  "name": "sentiment",
+  "contributors": [
+    {
+      "name": "Rafie Gilang",
+      "url": "https://github.com/rg872"
+    }
+  ],
+  "name": "sentiment-deftbyte",
   "description": "AFINN-based sentiment analysis for Node.js",
   "version": "5.0.1",
   "license": "MIT",
-  "homepage": "https://github.com/thisandagain/sentiment",
+  "homepage": "https://github.com/rg872/sentiment",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thisandagain/sentiment.git"
+    "url": "https://github.com/rg872/sentiment.git"
   },
   "keywords": [
     "sentiment",
