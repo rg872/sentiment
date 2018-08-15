@@ -5,7 +5,7 @@ Forked from Sentiment by thisandagain
 https://github.com/thisandagain/sentiment
 
 ## Added Feature
-1. Custom tokenization
+### 1. Custom tokenization
 
 You can add a custom function for creating tokens by adding customLabels and customTokenization in registerLanguage method
 
